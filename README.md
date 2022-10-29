@@ -13,6 +13,8 @@ Verwende dann console.log(person.fullName());
 
 ```
 
+<hr>
+
 ## 🎓 Übung lev1_2: Objects
 
 ```
@@ -27,6 +29,8 @@ Gib in der Konsole name und alter aus.
 Rufe die Funktion sagNameAlter aus dem Objekt auf.
 
 ```
+
+<hr>
 
 ## 🎓 Übung lev1_4: Objects Accessing
 
@@ -43,9 +47,11 @@ Erstelle eine Methode, mit der man die Hundenamen ändern kann und rufe diese Me
 
 ```
 
+<hr>
+
 ## 🎓 Übung lev1_5: Objects Accessing
 
-````
+```
 In dieser Übung lernen wir wie man auf die Objekt-Inhalte zugreift.
 Verwende den Code aus dem Kommentar.
 Greife auf die Eigenschaften dieses Objekts zu und gib folgende Werte in der Konsole aus:
@@ -53,13 +59,15 @@ Geheimnisse
 Cola
 Hefter
 
-## 💡 Assets
-
-```Accessing Object Properties
-````
-
 ```
-## 🎓 Übung Übung lev1_6: Objects Arrays Accessing
+
+## 💡 Hinweis
+
+- [Accessing Object Properties](https://www.w3schools.com/js/js_object_properties.asp)
+
+<hr>
+
+## 🎓 lev1_6: Objects Arrays Accessing
 
 ```
 
@@ -78,13 +86,11 @@ Von Pink Floyd das Wort: Floyd
 
 ```
 
-## 📸 Screenshots
-
-![App Screenshot](assets/img/screen.gif)
+<hr>
 
 ## 💻 Running
 
-Zur Seite —> - [Lev3_6_Project_css-vertiefung_the-design-shop](https://mukkez.github.io/Bootcamp/tasks/Day_39/Lev3_6_Project_css-vertiefung_the-design-shop/)
+Zur Seite —> - [Vertiefung JavaScript – Objekte](https://jennijennina.github.io/Vertiefung-JavaScript---Objekte/)
 
 <p align="left">
 </p>
@@ -93,4 +99,3 @@ Zur Seite —> - [Lev3_6_Project_css-vertiefung_the-design-shop](https://mukkez.
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="css3" width="40" height="40"/> </a> </p>
-```

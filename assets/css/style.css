@@ -54,4 +54,11 @@ body {
   transition: 100px ease;
   user-select: none;
 }
+h1 {
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
 /* ========= AB HIER AUFGABE ========= */
